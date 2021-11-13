@@ -111,10 +111,54 @@ p{
 	}
 }
 	
+	@media screen and (max-width: 320px) {
+	
+
+	
+	#container{
+	margin-left: auto;
+	margin-right:auto;
+	height: 651px;	
+	width: 300px;
+	background-color: brown;
+	}
 	
 	
+	#SmallPic{
+	width: 290px;
+	display: block;
+	visibility: visible;
+	height: auto;
+	}
+	
+	#artwork{
+	width: 956px;
+	height: 584px;
+	margin-top: 120px;
+	margin-left: 50px;
+	display: none;
+	visibility: hidden;
+	height: 0px;
+}
+	
+	#leftColumn{
+	width: 318px;
+	height: 812px;
+	margin-top: 20px;
+	float: left;
+	margin-left: 25px;
+	}
+	
+	p{
+		font-size: 15px;
+	}
+	
+	h1{
+	font-size: 26px;
+	}
 	
 	
+}
 	
 	
 	
