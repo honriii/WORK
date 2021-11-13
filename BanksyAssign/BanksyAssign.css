@@ -111,15 +111,24 @@ p{
 	}
 }
 	
+<<<<<<< HEAD
 	@media screen and (max-width: 800px) {
+=======
+	@media screen and (max-width: 600px) {
+>>>>>>> 07221c4ebca11c37ddf6ee16e94af975c15cff57
 	
 
 	
 	#container{
 	margin-left: auto;
 	margin-right:auto;
+<<<<<<< HEAD
 	height: 1600px;	
 	width: 550px;
+=======
+	height: 651px;	
+	width: 600px;
+>>>>>>> 07221c4ebca11c37ddf6ee16e94af975c15cff57
 	background-color: brown;
 	}
 	
