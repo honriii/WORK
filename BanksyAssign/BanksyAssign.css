@@ -48,7 +48,17 @@ p{
 }
 
 
-@media screen and (max-width: 375px) {
+/*@media screen and (max-width: 375px)*/
+	
+	@media
+  only screen and (-webkit-min-device-pixel-ratio: 3),
+  only screen and (   min--moz-device-pixel-ratio: 3),
+  only screen and (     -o-min-device-pixel-ratio: 3/1),
+  only screen and (        min-device-pixel-ratio: 3),
+  only screen and (                min-resolution: 458dpi),
+  only screen and (                min-resolution: 3dppx) { 
+    /* Retina styles here */
+}
 	
 	#container{
 	margin-left: 10px;
