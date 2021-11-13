@@ -72,7 +72,7 @@ p{
 	#container{
 	margin-left: auto;
 	margin-right:auto;
-	height: 1600px;	
+	height: 2000px;	
 	width: 1100px;
 	background-color: brown;
 	}
@@ -104,7 +104,7 @@ p{
 	}
 	
 	p{
-		font-size: 32px;
+		font-size: 42px;
 	}
 	
 	h1{
@@ -112,63 +112,7 @@ p{
 	}
 }
 	
-<<<<<<< HEAD
-	@media screen and (max-width: 800px) {
-=======
-	@media screen and (max-width: 600px) {
->>>>>>> 07221c4ebca11c37ddf6ee16e94af975c15cff57
-	
 
-	
-	#container{
-	margin-left: auto;
-	margin-right:auto;
-<<<<<<< HEAD
-	height: 1600px;	
-	width: 550px;
-=======
-	height: 651px;	
-	width: 600px;
->>>>>>> 07221c4ebca11c37ddf6ee16e94af975c15cff57
-	background-color: brown;
-	}
-	
-	
-	#SmallPic{
-	width: 290px;
-	display: block;
-	visibility: visible;
-	height: auto;
-	}
-	
-	#artwork{
-	width: 956px;
-	height: 584px;
-	margin-top: 120px;
-	margin-left: 50px;
-	display: none;
-	visibility: hidden;
-	height: 0px;
-}
-	
-	#leftColumn{
-	width: 318px;
-	height: 812px;
-	margin-top: 20px;
-	float: left;
-	margin-left: 25px;
-	}
-	
-	p{
-		font-size: 15px;
-	}
-	
-	h1{
-	font-size: 26px;
-	}
-	
-	
-}
 	
 	
 	
