@@ -55,15 +55,14 @@
 
 .belt{
 	/*display: flex;*/
-	justify-content: center;
 	position: absolute;
+	justify-content: center;
 	top: 333px;
-	left: 0px;
 	z-index: 2;
 }
 
 .belt img{
-	position: fixed;
+	position: absolute;
 	width: 1234px;
 	height: 98px;
 	z-index: 2;
