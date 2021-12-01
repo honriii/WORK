@@ -13,30 +13,54 @@
 */
 
 .horizontal {
-	position: relative;
-	display: flex;
+	/*display: flex;
 	flex-wrap: wrap;
-	justify-content: space-around; 
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: 105px;
+	justify-content: space-around;*/
+	position: relative;
+	width: 1234px;
+	height: auto;
+	top: 196px;
+	left: 0px;
+	z-index: 1;
+	animation-name: moveright;
+	animation-direction: normal;
+	animation-delay: 0.5s;
+    animation-duration: 6000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    /* transform: rotate(3deg); */
+    /* transform: rotate(3grad); */
+    /* transform: rotate(.03turn); */
+	animation-play-state: running;
+}
+.horizontal:hover{
+    animation-play-state: paused;
+    }
+    
+@keyframes moveright {
+    0%  transform:translateX(0px);
+	90% transform:translateX(800px);
+	100% transform:translateX(800px);
 }
 
 .horizontal img {
-	position: relative;
 	width: 180px;
 	height: auto;
 }
 
 .belt{
-	display: flex;
+	/*display: flex;*/
 	justify-content: center;
+	position: absolute;
+	top: 333px;
+	left: 0px;
+	z-index: 2;
 }
 
 .belt img{
 	position: fixed;
-	width: 1000px;
-	height: 320px;
+	width: 1234px;
+	height: 98px;
 	z-index: 2;
 }
 
@@ -44,4 +68,17 @@
 	width: 180px;
 	height: 180px;
 }
+
+.scanner {
+	height: 333px;
+	width: 146px;
+	position: relative;
+	top: -183px;
+	left: 570px;
+	z-index: 3;
+
+}
+
+
+
 
