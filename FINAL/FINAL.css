@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.parent {
+	position: relative;
+}
+
+/*
+.toRight{
+	display: flex;
+	justify-content: center;
+}
+*/
+
+.horizontal {
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around; 
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 105px;
+}
+
+.horizontal img {
+	position: relative;
+	width: 180px;
+	height: auto;
+}
+
+.belt{
+	display: flex;
+	justify-content: center;
+}
+
+.belt img{
+	position: fixed;
+	width: 1000px;
+	height: 320px;
+	z-index: 2;
+}
+
+#1 {
+	width: 180px;
+	height: 180px;
+}
+
