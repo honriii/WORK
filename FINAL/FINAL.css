@@ -37,7 +37,7 @@
     animation-play-state: paused;
     }
     
-@keyframes moveright {
+/*@keyframes moveright {
 	
 	from{
 		transform: translateX(0px);
@@ -46,6 +46,23 @@
 		transform: translateX(900px);
 	}
 	
+}*/
+
+/*@keyframes moveright {
+	
+    0%  {transform:translateX(0px);}
+    90% {transform:translateX(800px);}
+    100% {transform:translateX(800px);}
+}*/
+
+@keyframes moveright {
+                0%   {left: 0px;}
+                20% {left: 100px;}
+                25% {left: 100px;}
+                45% {left: 300px;}
+                50% {left: 300px;}
+				90%  {left: 800px; }
+                100% {left: 800px; }
 }
 
 .horizontal img {
