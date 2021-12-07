@@ -107,7 +107,7 @@
 }
 
 .text-wrapper{
-	width: 100%;
+	width: 150px;
 	position: absolute;
 	z-index: 2;
 	display: flex;
