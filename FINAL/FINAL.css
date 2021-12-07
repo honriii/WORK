@@ -5,6 +5,9 @@
 	position: relative;
 }
 
+body{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
 /*
 .toRight{
 	display: flex;
