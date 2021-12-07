@@ -129,7 +129,7 @@
 	
 }
 
-.text-wrapper1 h1{
+.text-wrapper1 h6{
 	color: #DB4437;
 	font-size: 100px;
 	margin-left: 125px;
@@ -142,7 +142,7 @@
 	z-index: 2;
 	
 }
-.text-wrapper2 h1{
+.text-wrapper2 h6{
 	color: #FFC84F;
 	font-size: 123px;
 	margin-left: 250px;
@@ -155,7 +155,7 @@
 	z-index: 2;
 }
 
-.text-wrapper3 h1{
+.text-wrapper3 h6{
 	color: #4169e1;
 	font-size: 145px;
 	margin-left: 380px;
