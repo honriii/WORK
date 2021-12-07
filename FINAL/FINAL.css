@@ -93,9 +93,9 @@
 .scanner {
 	height: 333px;
 	width: 146px;
-	position: relative;
-	top: -183px;
-	left: 570px;
+	position: absolute;
+	top: 1px;
+	left: 450px;
 	z-index: 3;
 
 }
@@ -113,11 +113,10 @@
 	
 }
 
-.text-wrapper h1{
-	text-align: center;
+.text-wrapper h6{
 	color: #4169e1;
 	font-size: 120px;
-	margin-left: -1100px;
+	margin-left: -0px;
 	margin-top: 32px;
 	
 	
@@ -131,10 +130,9 @@
 }
 
 .text-wrapper1 h1{
-	text-align: center;
 	color: #DB4437;
 	font-size: 100px;
-	margin-left: -850px;
+	margin-left: 125px;
 	margin-top: 100px;
 }
 
@@ -145,10 +143,9 @@
 	
 }
 .text-wrapper2 h1{
-	text-align: center;
 	color: #FFC84F;
 	font-size: 123px;
-	margin-left: -600px;
+	margin-left: 250px;
 	margin-top: 60px;
 }
 
@@ -159,10 +156,9 @@
 }
 
 .text-wrapper3 h1{
-	text-align: center;
 	color: #4169e1;
 	font-size: 145px;
-	margin-left: -300px;
+	margin-left: 380px;
 	margin-top: 0px;
 }
 
@@ -172,11 +168,10 @@
 	z-index: 2;
 }
 
-.text-wrapper4 h1{
-	text-align: center;
+.text-wrapper4 h6{
 	color: #AD0000;
 	font-size: 138px;
-	margin-left: 300px;
+	margin-left: 680px;
 	margin-top: 45px;
 }
 
