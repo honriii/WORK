@@ -109,7 +109,7 @@ a{
 
 .scanner {
 	height: 333px;
-	width: 146px;
+	width: 68px;
 	position: absolute;
 	top: 1px;
 	left: 450px;
@@ -224,3 +224,7 @@ a{
 	margin-left: 680px;
 	margin-top: 45px;
 }*/
+
+.center{
+	text-align: center;
+}
