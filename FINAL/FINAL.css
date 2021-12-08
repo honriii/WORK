@@ -8,6 +8,10 @@
 body{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
 }
+
+a{
+	text-decoration: none;
+}
 /*
 .toRight{
 	display: flex;
@@ -110,10 +114,11 @@ body{
 }
 
 .text-wrapper{
-	width: 150px;
-	position: absolute;
-	z-index: 2;
-	display: flex;
+    width: 150px;
+    position: absolute;
+    z-index: 2;
+    display: flex;
+    text-decoration: none;	
 	
 }
 
@@ -178,6 +183,3 @@ body{
 	margin-left: 680px;
 	margin-top: 45px;
 }
-
-
-
