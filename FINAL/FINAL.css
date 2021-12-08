@@ -114,7 +114,7 @@ a{
 }
 
 .text-wrapper{
-    width: 150px;
+    width: 100px;
     position: absolute;
     z-index: 2;
     display: flex;
@@ -132,7 +132,7 @@ a{
 }
 
 .text-wrapper1{
-	width: 100%;
+	width: 90px;
 	position: absolute;
 	z-index: 2;
 	
@@ -146,7 +146,7 @@ a{
 }
 
 .text-wrapper2{
-	width: 100%;
+	width: 100px;
 	position: absolute;
 	z-index: 2;
 	
@@ -159,7 +159,7 @@ a{
 }
 
 .text-wrapper3{
-	width: 100%;
+	width: 130px;
 	position: absolute;
 	z-index: 2;
 }
@@ -172,7 +172,7 @@ a{
 }
 
 .text-wrapper4{
-	width: 100%;
+	width: 130px;
 	position: absolute;
 	z-index: 2;
 }
