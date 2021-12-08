@@ -136,6 +136,10 @@ a{
 	font-weight: 500;
 }
 
+.text-wrapper:hover{
+	font-size: 140px;
+}
+
 /*.text-wrapper{
 	color: #4169e1;
 	font-size: 120px;
@@ -153,7 +157,10 @@ a{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-weight: 600;
 	color: #DB4437;
-	
+}
+
+.text-wrapper1:hover{
+	font-size: 88px;
 }
 
 /*.text-wrapper1 h6{
@@ -176,6 +183,10 @@ a{
 	font-weight: 600;
 	color: #ffc84f;
 }
+
+.text-wrapper2:hover{
+	font-size: 115px;
+}
 /*.text-wrapper2 h6{
 	color: #FFC84F;
 	font-size: 123px;
@@ -197,6 +208,10 @@ a{
 	color: #4169e1;
 }
 
+.text-wrapper3:hover{
+	font-size: 168px;
+}
+
 /*.text-wrapper3 h6{
 	color: #4169e1;
 	font-size: 145px;
@@ -216,6 +231,10 @@ a{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-weight: 600;
 	color: #AD0000;
+}
+
+.text-wrapper4:hover{
+	font-size: 230px;
 }
 
 /*.text-wrapper4 h6{
