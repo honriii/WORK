@@ -4,7 +4,7 @@
 .parent {
 	position: relative;
 	width: 800px;
-	height: auto;
+	height: 375px;
 	margin-left: auto;
 	margin-right: auto;
 	overflow: center;
@@ -96,6 +96,10 @@ a{
 	justify-content: center;
 	top: 333px;
 	z-index: 2;
+	width: 1234px;
+	height: 98px;
+	top: 342px;
+	overflow: hidden;
 }
 
 .belt img{
@@ -248,7 +252,7 @@ a{
 }*/
 
 .center{
-	width: 1200px;
+	width: 1234px;
 	height: 500px;
 	margin-left: auto;
 	margin-right: auto;
